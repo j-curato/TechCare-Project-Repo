@@ -1,3 +1,4 @@
+    <!-- Starting to learn Git -->
     <script src="{{ asset('promed_admin/assets/js/jquery-1.10.2.js') }}"></script>
      
     <script src="{{ asset('promed_admin/assets/js/jquery-1.12.0.min.js') }}"></script>
@@ -11,7 +12,6 @@
     <script src="{{ asset('promed_admin/assets/js/dataTables/datetime-moment.js') }}"></script>
 
     <script src="{{ asset('promed_admin/assets/js/sweetalert-master/dist/sweetalert.min.js') }}"></script>
-
     
     <script type="text/javascript">
 
