@@ -1,3 +1,4 @@
 Corei7
 1TB
 4GB RAM
+64 bit OS
